@@ -127,7 +127,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}acertijo_
   ├❧ _${usedPrefix}simi *<txt>*_
   ├❧ _${usedPrefix}top *<txt>*_
-  ├❧ _${usedPrefix}topgays_
   ├❧ _${usedPrefix}topotakus_
   ├❧ _${usedPrefix}formarpareja_
   ├❧ _${usedPrefix}verdad_
